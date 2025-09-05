@@ -1,0 +1,9 @@
+build/* linguist-vendored
+dist/* linguist-vendored
+
+node_modules/* linguist-vendored
+
+*.html linguist-vendored
+
+*.jsx linguist-language=JavaScript
+*.tsx linguist-language=TypeScript
